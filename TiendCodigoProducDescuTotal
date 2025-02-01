@@ -1,0 +1,22 @@
+#include<stdio.h>
+/*Definir funcion principal*/
+innt main(){
+    /*Definir variables*/
+    int,Codigoarticulo, cantidadarticulo;
+    float precio articulo, descueto, totalApagar
+/*solicitar los datos al medio*/
+    printf("Ingrese el codigo del producto: ");
+    scanf("%d",&codigoarticulo);
+    print("ingrese el precio del producto: ");
+    scanf("%.2f",&precioarticulo);
+    printf ("Ingrese la cantidad de productos: ");
+    scanf(%.2, &precioarticulof);
+    printf("Ingrese el descuento: ");
+    canf("%.2f",&descuento);
+    /*Realizar la operacion*/
+    descuento= (precioarticulo*porcentaje)/100
+    totalApagar= (precioarticulo*cantidadarticulo)-descuento;
+    /*Imprimir el resultado*/
+    printf("el total a pagar es:%.2f\n",totalApagar);
+    return 0;
+}
